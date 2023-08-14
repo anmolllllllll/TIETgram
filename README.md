@@ -1,16 +1,4 @@
-# flutter_application_1
+![image](https://github.com/anmolllllllll/TIETgram/assets/121091634/a45107da-0cc5-4057-b35c-9e2b17a329d1)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a social media software for TIET. Implemented by using Flutter & Firebase. It helps all seniors & juniors, to reach out to their mentors and seniors, give their opinions & share their skills. They Can show their extra circular skills & students can chat or talk with their seniors about academic achievements or can discuss anything that they want.
